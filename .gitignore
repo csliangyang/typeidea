@@ -123,6 +123,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/docs
 
 # mypy
 .mypy_cache/
@@ -135,5 +136,6 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
-# form the5fire's book
+# form the5fire's book, added by myself
 *.swp
+/.idea
